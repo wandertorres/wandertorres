@@ -51,10 +51,10 @@ Tenho facilidade de aprendizagem e sou focado quando há objetivos bem definidos
   [Cards E-commerce](https://github.com/wandertorres/cards-ecommerce)
   
 ### React Native
-  [SisMEC - Sistema de Marcação de Exames e Consultas](https://github.com/wandertorres/SisMEC)
+- [SisMEC - Sistema de Marcação de Exames e Consultas](https://github.com/wandertorres/SisMEC)
 
 ### Angular
-  [CRUD de Clientes](https://github.com/wandertorres/client-list)
+- [CRUD de Clientes](https://github.com/wandertorres/client-list)
   
 ### HTML/CSS
-  [Site de E-commerce](https://github.com/wandertorres/ecommerce)
+- [Site de E-commerce](https://github.com/wandertorres/ecommerce)
