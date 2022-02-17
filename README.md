@@ -47,8 +47,8 @@ Tenho facilidade de aprendizagem e sou focado quando há objetivos bem definidos
   
 ## Projetos de Destaque
 ### React
-  [Pokedex](https://github.com/wandertorres/pokemom-list)<br />
-  [Cards E-commerce](https://github.com/wandertorres/cards-ecommerce)
+- [Pokedex](https://github.com/wandertorres/pokemom-list)<br />
+- [Cards E-commerce](https://github.com/wandertorres/cards-ecommerce)
   
 ### React Native
 - [SisMEC - Sistema de Marcação de Exames e Consultas](https://github.com/wandertorres/SisMEC)
