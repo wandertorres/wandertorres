@@ -7,6 +7,10 @@
 - 🎙️ Built front-end for **Veritone Voice** (AI voice platform) and **Benji** (hospital network management, US)
 - 🤖 Working AI-native: orchestrating development with configured agents and context engineering — from task creation to PR
 
+### Featured project
+
+**[agentic-dev-workflow](https://github.com/wandertorres/agentic-dev-workflow)** — an AI-assisted development workflow for Claude Code. Specialised agents (tech-lead, software engineer, PR manager) take a change from spec to reviewed pull request, with explicit hand-offs, retry limits and escalation to a human Product Owner.
+
 ### Stack
 
 ![Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,jest,cypress,vite,git,figma)
