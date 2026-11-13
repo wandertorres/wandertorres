@@ -6,7 +6,7 @@
 - ✈️ Previously at **CVC Corp** — led the front-end re-architecture of *Opera* toward a modular monolith
 - 🎙️ Built front-end for **Veritone Voice** (AI voice platform) and **Benji** (hospital network management, US — micro front-end architecture), and contributed to Veritone's **Design System**
 - 🧩 Full stack background with Python, Django and SQL
-- 🤖 Working AI-native: orchestrating development with configured agents and context engineering — from task creation to PR
+- 🤖 AI-assisted development day to day, with agents and context engineering
 
 ### Featured project
 
