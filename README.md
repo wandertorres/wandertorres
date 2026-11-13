@@ -4,7 +4,8 @@
 
 - 🏥 Currently at **Portal Telemedicina**, working on telehealth platforms (real-time care flows with WebSocket, multi-tenant, monorepo)
 - ✈️ Previously at **CVC Corp** — led the front-end re-architecture of *Opera* toward a modular monolith
-- 🎙️ Built front-end for **Veritone Voice** (AI voice platform) and **Benji** (hospital network management, US)
+- 🎙️ Built front-end for **Veritone Voice** (AI voice platform) and **Benji** (hospital network management, US — micro front-end architecture), and contributed to Veritone's **Design System**
+- 🧩 Full stack background with Python, Django and SQL
 - 🤖 Working AI-native: orchestrating development with configured agents and context engineering — from task creation to PR
 
 ### Featured project
@@ -15,7 +16,7 @@
 
 ![Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,jest,cypress,vite,git,figma)
 
-**Also:** Zustand · TanStack Query · Redux-Saga · React Native · Chakra UI · Emotion · Sentry · GitLab CI
+**Also:** Zustand · TanStack Query · Redux-Saga · React Native · Tailwind · Material UI · Chakra UI · shadcn/ui · Emotion · Styled Components · REST · WebSocket · Sentry · GitLab CI
 
 ### Connect
 
